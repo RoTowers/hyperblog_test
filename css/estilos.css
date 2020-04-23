@@ -1,8 +1,12 @@
 body{
-	background-color: red;
 	text-align: center;
+	font-family: "Arial";
 }
 
-h1{
-	color: blue;
+#post{
+	width: 60%;
+	border: 5px solid #E5E7E9;
+	padding: 2em;
+	margin: 0 auto;
+	text-align: left;
 }
