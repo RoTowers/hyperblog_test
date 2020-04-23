@@ -12,11 +12,12 @@ body{
 #post{
 	padding: 2em;
 	text-align: left;
+	color: red;
 }
 
 #header {
 	background-color: #925FFF;
-	color: white;
+	color: blue;
 	padding: 0.5em;
 	text-align: left;
 	padding-left: 2em;
