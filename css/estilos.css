@@ -3,10 +3,21 @@ body{
 	font-family: Courier;
 }
 
-#post{
-	width: 60%;
+.container{
 	border: 5px solid #E5E7E9;
-	padding: 2em;
+	width: 60%;
 	margin: 0 auto;
+}
+
+#post{
+	padding: 2em;
 	text-align: left;
+}
+
+#header {
+	background-color: #925FFF;
+	color: white;
+	padding: 0.5em;
+	text-align: left;
+	padding-left: 2em;
 }
