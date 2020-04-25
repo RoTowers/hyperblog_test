@@ -12,13 +12,20 @@ body{
 #post{
 	padding: 2em;
 	text-align: left;
-	color: red;
+	color: black;
 }
 
 #header {
 	background-color: #925FFF;
-	color: green;
+	color: white;
 	padding: 0.5em;
 	text-align: left;
 	padding-left: 2em;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#header #logo {
+	width: 30px;
+	vertical-align: middle;
 }
