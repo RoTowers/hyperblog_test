@@ -22,3 +22,8 @@ body{
 	text-align: left;
 	padding-left: 2em;
 }
+
+#footer {
+	background-color: gray;
+	padding: 0.5em;
+}
