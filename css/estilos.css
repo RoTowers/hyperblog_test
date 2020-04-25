@@ -29,3 +29,8 @@ body{
 	width: 30px;
 	vertical-align: middle;
 }
+
+#footer {
+	background-color: gray;
+	padding: 0.5em;
+}
