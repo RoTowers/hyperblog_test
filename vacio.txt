@@ -4,6 +4,8 @@ Soy Rodrigo y ésta es mi biografia, tengo 23 años y vivo en Santiago de Chile
 
 Ahora tambien se añade Test Rodrigo a escribir codigo
 
+TestRoTowers ha colaborado en este proyecto desde un fork
+
 Saludos.
 
 
