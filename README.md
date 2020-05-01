@@ -1,13 +1,13 @@
 # hyperblog_test
 Este es un hyper blog de prueba aprendiendo Git / Git Hub
 
-###Code Blocks (multi-language) & highlighting
+(multi-language) & highlighting
 
-####Inline code
+
 
 `$ npm install marked`
 
-####Code Blocks (Indented style)
+
 
 Indented 4 spaces, like `<pre>` (Preformatted Text).
 
@@ -22,7 +22,7 @@ Code Blocks (Preformatted text):
     | Content Cell  | Content Cell  |
     | Content Cell  | Content Cell  |
 
-####Javascript　
+
 
 ```javascript
 function test(){
@@ -62,8 +62,6 @@ function test(){
 var testBox = box();
 testBox.add("jQuery").remove("jQuery");
 ```
-
-####HTML code
 
 ```html
 <!DOCTYPE html>
